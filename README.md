@@ -42,7 +42,9 @@ Gastroenteritis
 
 📸 Tampilan Aplikasi
 
-[Sertakan Screenshot Landing Page dan Hasil Diagnosa di sini]
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/d34b6971-e306-453c-b9f2-1a167e7d4ee7" />
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/fe3c6f45-af55-4503-9561-29a96b9721f6" />
+<img width="995" height="759" alt="image" src="https://github.com/user-attachments/assets/46febe9c-35fc-4c65-982a-40088ef4f129" />
 
 ⚠️ Penafian (Disclaimer)
 
