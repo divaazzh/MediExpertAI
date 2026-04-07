@@ -1,2 +1,49 @@
-# MediExpertAI
-MediExpert AI adalah sebuah sistem pakar (Expert System) berbasis web yang dirancang untuk membantu pengguna melakukan diagnosa awal terhadap beberapa penyakit menular umum berdasarkan gejala klinis yang dirasakan. 
+MediExpert AI - Expert System for Early Disease Diagnosis
+
+MediExpert AI adalah sebuah sistem pakar (Expert System) berbasis web yang dirancang untuk membantu pengguna melakukan diagnosa awal terhadap beberapa penyakit menular umum berdasarkan gejala klinis yang dirasakan. Proyek ini menggabungkan teknik informatika dengan basis pengetahuan medis sederhana.
+
+🚀 Fitur Utama
+
+Inference Engine (Forward Chaining): Menggunakan logika deduktif yang bergerak dari sekumpulan gejala menuju kesimpulan diagnosa.
+
+Confidence Scoring: Menghitung tingkat kecocokan (persentase) gejala yang dialami dengan basis aturan (rule-base) penyakit.
+
+Modern Landing Page: Antarmuka responsif dan bersih menggunakan Tailwind CSS.
+
+Privacy Focused: Semua pemrosesan data dilakukan di sisi klien (client-side), tidak ada data medis sensitif yang dikirim ke server.
+
+🛠️ Tech Stack
+
+Frontend: HTML5, Tailwind CSS
+
+Logic/Engine: Vanilla JavaScript (ES6+)
+
+Icons: Font Awesome
+
+Fonts: Google Fonts (Inter)
+
+🧠 Konsep Algoritma
+
+Sistem ini mengimplementasikan metode Forward Chaining. Proses dimulai dengan mengumpulkan fakta-fakta (gejala yang dipilih pengguna), kemudian fakta tersebut dicocokkan dengan Rule-Base yang ada di sistem:
+
+IF gejala A, B, dan C terpenuhi THEN penyakit X.
+
+📋 Daftar Penyakit (Basis Pengetahuan)
+
+Saat ini sistem mampu mengidentifikasi kemungkinan awal untuk:
+
+Demam Berdarah (Dengue)
+
+COVID-19
+
+Influenza Berat
+
+Gastroenteritis
+
+📸 Tampilan Aplikasi
+
+[Sertakan Screenshot Landing Page dan Hasil Diagnosa di sini]
+
+⚠️ Penafian (Disclaimer)
+
+Aplikasi ini dibuat untuk tujuan edukasi dan portofolio pengembangan sistem pakar. Hasil diagnosa bersifat prediktif dan tidak boleh menggantikan saran, diagnosa, atau perawatan medis profesional.
