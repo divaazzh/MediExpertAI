@@ -48,4 +48,4 @@ Gastroenteritis
 
 ⚠️ Penafian (Disclaimer)
 
-Aplikasi ini dibuat untuk tujuan edukasi dan portofolio pengembangan sistem pakar. Hasil diagnosa bersifat prediktif dan tidak boleh menggantikan saran, diagnosa, atau perawatan medis profesional.
+Aplikasi ini dibuat untuk tujuan edukasi pengembangan sistem pakar. Hasil diagnosa bersifat prediktif dan tidak boleh menggantikan saran, diagnosa, atau perawatan medis profesional.
